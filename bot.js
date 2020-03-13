@@ -6,7 +6,7 @@ client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-const devs = ["336374035141230592"]
+const devs = ["537260628713406464"]
  
 const adminprefix = "$";
 client.on('message', message => {
